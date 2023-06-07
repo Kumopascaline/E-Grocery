@@ -7,29 +7,41 @@ This use case model outlines the key features and functionalities of the  E-groc
 
 ### Customer
 
-- Register account: Allows new customers to register an account on the e-grocery system.
+#### -Register account: Allows new customers to register an account on the e-grocery system.
 ![eb3d6f43-6407-4cec-a03a-6a52cf0ce2ca](https://github.com/Kumopascaline/E-Grocery/assets/75366612/d0122a96-0a66-4e77-9d10-4cc7ef09c86b)
 
-- Login: Allows customers to login to their account and access the system.
+#### - Login: Allows customers to login to their account and access the system.
 ![6a50faa9-393c-42ed-8688-c5a3f8d8530e](https://github.com/Kumopascaline/E-Grocery/assets/75366612/fdb779ec-5b68-436c-9a3d-db9b09ac5ebe)
 
-- Browse products: Allows customers to browse the available products in the e-grocery system.
+#### - Browse products: Allows customers to browse the available products in the e-grocery system.
 
 ![604ce821-5d92-4149-af76-c611311eaefe](https://github.com/Kumopascaline/E-Grocery/assets/75366612/e9bc31b1-4486-4bf4-b115-bb17a2f5cb1a)
 
 
--Search for products: Allows customers to search for specific products using keywords or filters.
+#### -Search for products: Allows customers to search for specific products using keywords or filters.
 ![dda78ca0-d40b-4f56-87b6-a82318f5f83a](https://github.com/Kumopascaline/E-Grocery/assets/75366612/8de16770-30f4-45f8-8f34-1092ac28bc73)
 
 Add items to cart: Allows customers to add items to their shopping cart.
-![dda78ca0-d40b-4f56-87b6-a82318f5f83a](https://github.com/Kumopascaline/E-Grocery/assets/75366612/8de16770-30f4-45f8-8f34-1092ac28bc73)
-View cart: Allows customers to view the items in their shopping cart.
+![604ce821-5d92-4149-af76-c611311eaefe](https://github.com/Kumopascaline/E-Grocery/assets/75366612/18b5e7da-f914-4af0-b5a4-d7be7a9ca031)
 
-Remove items from cart: Allows customers to remove items from their shopping cart.
+#### -View cart: Allows customers to view the items in their shopping cart.
 
-Checkout: Allows customers to complete the purchase and pay for the items in their shopping cart.
+#### -Remove items from cart: Allows customers to remove items from their shopping cart.
+
+-Checkout: Allows customers to complete the purchase and pay for the items in their shopping cart.
 
 ### Administrator
-#### Login: Allows the administrator to login to the e-grocery system.
-Manage products: Allows the administrator to add, edit, or delete products from the e-grocery system.
-Manage orders: Allows the administrator to view and manage customer orders, including processing payments, updating order statuses, and generating reports.
+#### -Login: Allows the administrator to login to the e-grocery system.
+#### -Manage products: Allows the administrator to 
+![Capture d’écran (260)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/85895c6d-5639-4df8-ae44-ae91e0df90ad)
+
+-add,
+![Capture d’écran (261)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/d869a99a-fb06-4056-baf7-1dbf771e2ea6)
+
+-edit, or delete products from the e-grocery system.
+![Capture d’écran (262)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/659863cb-52d3-4f20-b330-c14213d4eacd)
+
+#### -Manage orders: Allows the administrator to view and manage customer orders, including processing payments, updating order statuses, and generating reports.
+### System
+#### -Manage inventory: Automatically updates the inventory levels of products based on customer orders.
+
