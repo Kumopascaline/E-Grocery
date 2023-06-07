@@ -1,9 +1,16 @@
-# E-Grocery
+# e_grocery
 
-	Customers may buy groceries and other household supplies online from the convenience of their homes 
-  using an e-grocery system. A typical component of this kind of system is an online store or mobile app that sells a variety of goods, such as groceries, h
-  
-  ome goods, and fresh produce. A number of payment options are accepted when customers browse the available products, add items to their virtual shopping carts, and 
-  finish their purchases online. Additionally, e-grocery systems could offer alternatives for curbside pickup or home delivery in addition to order tracking and customer 
-  support services. These technologies are intended to make grocery shopping for customers quick and easy, but simultaneously minimizing face-to-face encounters and
-  encouraging social seclusion.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
