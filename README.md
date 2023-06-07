@@ -15,18 +15,23 @@ This use case model outlines the key features and functionalities of the  E-groc
 
 #### - Browse products: Allows customers to browse the available products in the e-grocery system.
 
-![604ce821-5d92-4149-af76-c611311eaefe](https://github.com/Kumopascaline/E-Grocery/assets/75366612/e9bc31b1-4486-4bf4-b115-bb17a2f5cb1a)
+![Capture d’écran (267)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/a4ae3234-43f8-4d20-b4d3-9b495bc9c6a0)
 
 
 #### -Search for products: Allows customers to search for specific products using keywords or filters.
 ![dda78ca0-d40b-4f56-87b6-a82318f5f83a](https://github.com/Kumopascaline/E-Grocery/assets/75366612/8de16770-30f4-45f8-8f34-1092ac28bc73)
 
-Add items to cart: Allows customers to add items to their shopping cart.
+#### -Add items to cart: Allows customers to add items to their shopping cart.
 ![604ce821-5d92-4149-af76-c611311eaefe](https://github.com/Kumopascaline/E-Grocery/assets/75366612/18b5e7da-f914-4af0-b5a4-d7be7a9ca031)
 
 #### -View cart: Allows customers to view the items in their shopping cart.
-
 #### -Remove items from cart: Allows customers to remove items from their shopping cart.
+![Capture d’écran (266)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/bbde1128-7824-4004-a94a-416596dcbfaa)
+
+#### -Edit Profile
+
+![Capture d’écran (268)](https://github.com/Kumopascaline/E-Grocery/assets/75366612/6d735efc-a0ef-4e47-a5eb-002684a94d9c)
+
 
 -Checkout: Allows customers to complete the purchase and pay for the items in their shopping cart.
 
