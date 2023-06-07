@@ -8,10 +8,11 @@ This use case model outlines the key features and functionalities of the  E-groc
 ### Customer
 
 - Register account: Allows new customers to register an account on the e-grocery system.
+![eb3d6f43-6407-4cec-a03a-6a52cf0ce2ca](https://github.com/Kumopascaline/E-Grocery/assets/75366612/d0122a96-0a66-4e77-9d10-4cc7ef09c86b)
 
 - Login: Allows customers to login to their account and access the system.
 - Browse products: Allows customers to browse the available products in the e-grocery system.
-- ![77e1f7ce-e19c-448d-8500-d3c941093aa3](https://github.com/Kumopascaline/E-Grocery/assets/75366612/45981b78-2812-49f5-aecd-6f8c5a7a54f7)
+
 
 -Search for products: Allows customers to search for specific products using keywords or filters.
 Add items to cart: Allows customers to add items to their shopping cart.
