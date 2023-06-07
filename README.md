@@ -1,8 +1,23 @@
-# e_grocery
+# E-GROCERY
+## Introduction
+Customers may buy groceries and other household supplies online from the convenience of their homes using an e-grocery system. A typical component of this kind of system is an online store or mobile app that sells a variety of goods, such as groceries, home goods, and fresh produce. A number of payment options are accepted when customers browse the available products, add items to their virtual shopping carts, and finish their purchases online. Additionally, e-grocery systems could offer alternatives for curbside pickup or home delivery in addition to order tracking and customer support services. These technologies are intended to make grocery shopping for customers quick and easy, but simultaneously minimizing face-to-face encounters and encouraging social seclusion.
 
-A new Flutter project.
+## USE CASE MODELS
+This use case model outlines the key features and functionalities of the  E-grocery system from the perspective of the customers, administrators, and the system itself. It provides a high-level overview of the system's capabilities and helps to ensure that all stakeholders have a clear understanding of how the system works.Here are the use case model for the E-grocery system:
 
-## Getting Started
+### Customer
+
+- Register account: Allows new customers to register an account on the e-grocery system.
+
+- Login: Allows customers to login to their account and access the system.
+- Browse products: Allows customers to browse the available products in the e-grocery system.
+- ![77e1f7ce-e19c-448d-8500-d3c941093aa3](https://github.com/Kumopascaline/E-Grocery/assets/75366612/45981b78-2812-49f5-aecd-6f8c5a7a54f7)
+
+-Search for products: Allows customers to search for specific products using keywords or filters.
+Add items to cart: Allows customers to add items to their shopping cart.
+View cart: Allows customers to view the items in their shopping cart.
+Remove items from cart: Allows customers to remove items from their shopping cart.
+Checkout: Allows customers to complete the purchase and pay for the items in their shopping cart.
 
 This project is a starting point for a Flutter application.
 
